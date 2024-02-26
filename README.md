@@ -19,8 +19,6 @@ To run the project, you have to install __docker-compose and docker__.
   make
 ```
 
-When the containers are done building up and are running, you go to your chrome browser (firefox also works) and write on the URL bar "localhost:3000" to access to the application.
-
 ## What is Docker ?
 Docker is a virtualization tool that packages and deploys applications along with their dependencies into a software container. These containers are isolated from one another and can run on any machine running Docker software, greatly simplifying application deployment and distribution.
 
